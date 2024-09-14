@@ -1,11 +1,11 @@
 import React from "react";
-import FlamesGame from "./FlamesGame";
+import FlameGame from "./FlameGame";
 
 function App() {
   return (
     <div className="App">
       <h1>FLAMES Game</h1>
-      <FlamesGame />
+      <FlameGame />
     </div>
   );
 }
